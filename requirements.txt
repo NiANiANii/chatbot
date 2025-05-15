@@ -1,0 +1,5 @@
+streamlit
+llama-index
+python-dotenv
+llama-index-readers-microsoft-onedrive
+llama-index-llms-openrouter
